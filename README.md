@@ -136,4 +136,5 @@
  * **Presenter(s)**: 
  * **Topic(s)**: 
  * **Materials**: 
- 
+
+## Suggested Papers (feel free to add more!)
