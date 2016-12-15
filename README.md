@@ -1,4 +1,4 @@
-# Lab Meetings QuantGen Group Fall 2016
+# Lab Meetings QuantGen Group Spring 2017
 
 [Group's Website](http://quantgen.github.io/)
 
