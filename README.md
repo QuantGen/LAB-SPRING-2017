@@ -25,7 +25,7 @@
  * **Date**: Friday, February 3, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: 
+ * **Presenter(s)**: Quan Long (University of Calgary, Canada)
  * **Topic(s)**: 
  * **Materials**: 
 
@@ -34,7 +34,7 @@
  * **Date**: Friday, February 10, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Quan Long (University of Calgary, Canada)
+ * **Presenter(s)**: 
  * **Topic(s)**: 
  * **Materials**: 
 
