@@ -8,8 +8,10 @@
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**: Organizational Meeting
- * **Topic(s)**: Discuss plan for the Spring, including lab meeting and papers in progress.
- * **Materials**: 
+ * **Topic(s)**: 
+       * Discuss plan for the Spring, including lab meeting and papers in progress.
+       * **Methods for Analysis of Multi-layered High Dimensional Inputs ** (Gustavo)
+ * **Materials**: [(ppt)](https://dl.dropboxusercontent.com/u/22482453/presentations/HD-ANOVA.pptx)
 
 ---
 
