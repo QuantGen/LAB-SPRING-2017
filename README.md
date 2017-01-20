@@ -36,9 +36,9 @@
  * **Date**: Friday, February 10, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**:
- * **Topic(s)**:
- * **Materials**: 
+ * **Presenter(s)**:Mengying Sun
+ * **Topic(s)**:Convex optimization for sparse-inducing norms
+ * **Materials**: [(slides)](https://www.dropbox.com/s/8i26tvn5z79yltd/Convex%20Optimization_sparse_inducing_norms.pdf?dl=0)
 
 ---
 
