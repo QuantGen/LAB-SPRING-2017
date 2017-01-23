@@ -72,9 +72,9 @@
  * **Date**: Friday, March 17, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: 
- * **Topic(s)**: 
- * **Materials**: 
+ * **Presenter(s)**: Agustin Gonzalez
+ * **Topic(s)**: Cancer Methylomics
+ * **Materials**: [(online article: Witte et al. 2014)](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-014-0066-6)
 
 ---
 
