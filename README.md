@@ -81,8 +81,8 @@
  * **Date**: Friday, March 24, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: 
- * **Topic(s)**: 
+ * **Presenter(s)**: Raka Mandal
+ * **Topic(s)**: Small and Large sample bias of genomic heritability estimates
  * **Materials**: 
 
 ---
