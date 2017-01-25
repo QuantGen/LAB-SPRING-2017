@@ -54,8 +54,8 @@
  * **Date**: Friday, February 24, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Yeni Liliana Bernal Rubio  
- * **Topic(s)**: TBD
+ * **Presenter(s)**:   
+ * **Topic(s)**: 
  * **Materials**: 
 
 ---
@@ -90,7 +90,7 @@
  * **Date**: Friday, March 31, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: 
+ * **Presenter(s)**: Yeni Liliana Bernal Rubio
  * **Topic(s)**: 
  * **Materials**: 
 
