@@ -54,9 +54,9 @@
  * **Date**: Friday, February 24, 2017
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**:   
+ * **Presenter(s)**: Arjun Krishnan (Assistant Professor in the departments of Computational Mathematics, Science & Engineering and Biochemistry & Molecular Biology)
  * **Topic(s)**: 
- * **Materials**: 
+ * **Materials**: [Arjun's Website](https://www.arjun-krishnan.net/)
 
 ---
 
