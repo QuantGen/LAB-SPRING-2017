@@ -28,7 +28,7 @@
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**: Quan Long (University of Calgary, Canada)
- * **Topic(s)**: 
+ * **Topic(s)**: (1) putting data in disk and analyze them in RAM. (2) haplotype inference from the pooled sequencing.
  * **Materials**: 
 
 ---
