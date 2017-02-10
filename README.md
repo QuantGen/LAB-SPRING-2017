@@ -38,7 +38,7 @@
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**:Mengying Sun
  * **Topic(s)**:Convex optimization for sparse-inducing norms
- * **Materials**: [(slides)](https://www.dropbox.com/s/8i26tvn5z79yltd/Convex%20Optimization_sparse_inducing_norms.pdf?dl=0)
+ * **Materials**: [(slides)](https://www.dropbox.com/s/tpry70xdx2w10ey/Convex%20Optimization_3.pptx?dl=0)
 
 ---
 
