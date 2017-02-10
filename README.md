@@ -47,7 +47,7 @@
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**: Hwasoon Kim
  * **Topic(s)**: LD score
- * **Materials**: 
+ * **Materials**: [LD Score regression](https://www.dropbox.com/s/k1c80fb33qpxm3q/Bulik-Sullivan_2015.pdf?dl=0) & [LD Hub](https://www.dropbox.com/s/6lpllbpxye9f4y8/Zheng_2016.pdf?dl=0)
 
 ---
 
