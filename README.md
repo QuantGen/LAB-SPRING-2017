@@ -91,8 +91,8 @@
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**: Yeni Liliana Bernal Rubio
- * **Topic(s)**: 
- * **Materials**: 
+ * **Topic(s)**: GWAS using electronic health records 
+ * **Materials**:[Hoffman et al., 2017.Nature Genetics.](http://www.nature.com/ng/journal/v49/n1/pdf/ng.3715.pdf)
 
 ---
 
