@@ -109,8 +109,8 @@
  * **Time**: 1:00–2:00 p.m.
  * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
  * **Presenter(s)**: Steven Avery
- * **Topic(s)**: 
- * **Materials**: 
+ * **Topic(s)**: Implementing L1-penalized regression for genomic prediction
+ * **Materials**: [Friedman et al. Journal of Statistical Software 33, 2010.](https://www.ncbi.nlm.nih.gov/pubmed/20808728), [El Ghaoui et al. J. Pacific Optim., 8(4):667–698, 2012.](https://arxiv.org/abs/1009.4219), [Fercoq et al. 1505. Proceedings of the 32 nd International Conference on Machine Learning, JMLR: W&CP volume 37, 2015](https://arxiv.org/abs/1505.03410)
 
 ---
 
